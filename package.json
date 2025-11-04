@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "discord-backup": "^3.0.1",
+    "discord-backup": "^3.3.2",
     "discord-button-pages": "^1.1.9",
     "discord-buttons": "^4.0.0-deprecated",
     "discord-logs": "^2.0.1",
